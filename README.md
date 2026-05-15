@@ -1,16 +1,38 @@
-## Hi there 👋
+# Nidhal Messaoudi
 
-<!--
-**nidhalmessaoudi/nidhalmessaoudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Developer | Level One Freelancer**
 
-Here are some ideas to get you started:
+I build web applications, APIs, and automation tools. **15+ projects delivered**, all rated ⭐⭐⭐⭐⭐
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 What I Do
+
+- Full-Stack Web Development
+- API & Backend Services
+- Automation Tools & Scripts
+- Mobile Apps (iOS with Swift)
+
+---
+
+## 💻 Tech Stack
+
+JavaScript • TypeScript • React • Next.js • Node.js • Python • Java • PHP • MongoDB • MySQL • Swift
+
+---
+
+## 💼 Available For
+
+- Freelance projects
+- Full-time positions & contracts
+- Technical consulting & collaboration
+
+---
+
+## ✉️ Connect With Me
+
+- contactme.nidhal@gmail.com
+- [GitHub](https://github.com/nidhalmessaoudi)
+- [LinkedIn](https://linkedin.com/in/nidhalmessaoudi)
+- [Fiverr](https://fiverr.com/nidhalmessaoudi)
+- [Freelancer](https://www.freelancer.com/u/nidhalmessaoudi)
